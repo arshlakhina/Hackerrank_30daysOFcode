@@ -99,7 +99,7 @@ But, this can prove to be quite a difficult task at times. So, here are some sol
 
 This is a repository aiming to provide solutions for 30 days code challenge (2020) conducted on Hackerrank. The solutions are available in major languages like C, C++, Python, Go ,Java ,C# and Javascript as of now. It is a great platform for users to contribute and provide the solutions in other languages too.
 
-Happy coding!
+Happy coding to all the aspiring coders!
 
 [contributors-shield]: https://img.shields.io/github/contributors/rahulsain3000/Hackerrank_30daysOFcode?style=flat-square
 [contributors-url]: https://github.com/rahulsain3000/Hackerrank_30daysOFcode/graphs/contributors
